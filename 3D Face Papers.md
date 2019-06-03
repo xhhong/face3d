@@ -590,3 +590,7 @@
 
 - Learning from Millions of 3D Scans for Large-scale 3D Face Recognition(CVPR2018, Western Australia) 
 
+
+*CVPR2019*
+### 3D Face
+
